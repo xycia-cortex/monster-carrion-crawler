@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: monster-carrion-crawler
+  x-cortex-tag: monster-carrion-crawler
+  x-cortex-custom-metadata:
+    alignment: lawful-evil
+    type: aberration
+    challenge_rating: 2
+    legendary: false
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-carrion-crawler
+      alias: github-token-test
