@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-carrion-crawler
+  x-cortex-tag: monster-carrion-crawler
+  x-cortex-custom-metadata:
+    alignment: chaotic-good
+    type: dragon
+    challenge_rating: 23
+    legendary: false
+    armor_class: 17
+    hit_points: 140
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-carrion-crawler
+      alias: github-token-test
